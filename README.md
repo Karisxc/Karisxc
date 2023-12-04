@@ -56,7 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Karisxc/Karisxc/output/snake.svg" alt="Snake animation" />
 
 ###
 
