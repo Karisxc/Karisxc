@@ -2,24 +2,26 @@
 
 ###
 
-<h4 align="left">Here is a list of my studied technologies (at a basic or intermediate level)</h4>
+<h4 align="left">Here is a list of technologies I am proficient in (at various levels):</h4>
 
 ###
 
-<p align="left">1.  👌Java - I can make console programs, I know this language at a slightly above average level, I also know the spring framework, I can work with an sql database and this language is my main focus in it</p>
+<p align="left">1.  👌Java - I can create console applications and work with the Spring framework. I am also skilled in using SQL databases. Java is one of my primary programming languages.</p>
 
 ###
 
-<p align="left">2. 👨‍💻Web - I know the technologies that are used to create websites: HTML, CSS, JS, bd-mysql.</p>
+<p align="left">2. 👨‍💻Web Development - I am familiar with technologies used for building websites: HTML, CSS, JavaScript, and MySQL databases.</p>
 
 ###
 
-<p align="left">3. 🧠I can also make not very complex applications on Android-studio.</p>
+<p align="left">3. 🧠Mobile Development - I have significant experience in developing Android applications using Android Studio, Kotlin, and Java. I am also familiar with Dagger 2 for dependency injection and Jetpack Compose for UI design.</p>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="48" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo"  />
   <img width="12" />
@@ -32,30 +34,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
 </div>
 
 ###
 
-<h4 align="left">Here are my soft skills and generally good qualities</h4>
+<h4 align="left">Here are my soft skills and personal attributes:</h4>
 
 ###
 
-<p align="left">1. 👤I am very sociable and good at adapting to the fast pace of work.</p>
+<p align="left">1. 👤I am highly sociable and adapt well to fast-paced environments.</p>
 
 ###
 
-<p align="left">2. 🗣I quickly master new technology and quickly understand what needs to be done in difficult and difficult moments</p>
+<p align="left">2. 🗣I learn new technologies quickly and can efficiently handle complex and challenging situations.</p>
 
 ###
 
-<p align="left">3 🥱.I'm very sociable</p>
+<p align="left">3. 🥱I am an effective communicator and can work well in a team setting.</p>
 
 ###
 
-<h1 align="center">Thank you very much if you came to read about me!</h1>
-
-###
-
+<h1 align="center">Thank you for taking the time to learn about me!</h1>
 
 ###
 
