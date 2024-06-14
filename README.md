@@ -1,4 +1,4 @@
-<h1 align="left">Hello!<br>My name is Karim and I am 15 years old.</h1>
+<h1 align="left">Hello!<br>My name is Karim.</h1>
 
 ###
 
